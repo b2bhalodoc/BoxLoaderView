@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Options">
+        <attr name="blvStrokeColor" format="color" />
+        <attr name="blvLoaderColor" format="color" />
+        <attr name="blvStrokeWidth" format="integer" />
+        <attr name="blvSpeed" format="integer" />
+    </declare-styleable>
+</resources>
